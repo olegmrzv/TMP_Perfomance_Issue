@@ -1,5 +1,5 @@
-#TextMeshPro Performance Issue
-##How To Reproduce
+# TextMeshPro Performance Issue  
+## How To Reproduce  
 * Clone Repo (don't use zip - there are Git LFS files)
 * Open Scenes/SampleScene.scene  
 * Open Profiler Window  
@@ -10,7 +10,7 @@
 ![profiler.png](Assets/Images/profiler.png)  
 * Enjoy
 
-##Explanation
+## Explanation  
 This is a confirmed issue on any revisions of Unity 2019.3.* , 2019.4.*
   
 Update any UI element to force canvas rebuild, it can be any element: text, image, slider, etc.  

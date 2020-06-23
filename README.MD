@@ -1,3 +1,4 @@
+#TextMeshPro Performance Issue
 ##How To Reproduce
 * Clone Repo (don't use zip - there are Git LFS files)
 * Open Scenes/SampleScene.scene  
